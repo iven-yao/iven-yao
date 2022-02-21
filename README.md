@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chih-Ken Yao, you can also call me Iven!
-- 🌱 I’m currently learning web development with ajax, json, angularJS and so many on.
+- 🌱 I’m currently learning web development with flask, python, html, css, javaScript, and much on.
 - 👀 I’m looking for internship opportunities now, please contact me if you got some cool position to offer.
 - 📫 you could find me here: ivenyao820109@gmail.com
 
