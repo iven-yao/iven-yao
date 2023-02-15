@@ -3,7 +3,7 @@ I'm a master student at University of Southern California, and major in Computer
 
 
 ## 📫 Contact Me:
-<p align="center">
+<p>
   <a href=mailto:"chihkeny@usc.edu"><img src="https://img.icons8.com/color/32/000000/gmail.png" width="40" height="40" alt="email"/></a>
   <a href="https://www.linkedin.com/in/chih-ken-yao/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" width="40" height="40" alt="linkedin"/></a>
 </p>
