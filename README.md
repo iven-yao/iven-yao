@@ -11,9 +11,6 @@ I'm a master student at University of Southern California, and major in Computer
 
 ## 📈 Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=iven-yao&theme=bear&hide_border=false&include_all_commits=true&count_private=false)
-<br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iven-yao&theme=bear&border_radius=4.5)](https://git.io/streak-stats)
-<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iven-yao&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!---
