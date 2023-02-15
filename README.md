@@ -4,11 +4,11 @@
 
 
 ## 📈 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=iven-yao&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=iven-yao&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
 <br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iven-yao&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iven-yao&theme=dracula&border_radius=4.5)](https://git.io/streak-stats)
 <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iven-yao&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iven-yao&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!---
 iven-yao/iven-yao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
