@@ -10,9 +10,8 @@ I'm a master student at University of Southern California, and major in Computer
 
 
 ## 📈 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=iven-yao&theme=bear&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iven-yao&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Iven's GitHub stats](https://github-readme-stats.vercel.app/api?username=iven-yao)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=iven-yao&theme=bear&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iven-yao&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!---
 iven-yao/iven-yao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
