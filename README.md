@@ -10,7 +10,7 @@ I'm a master student at University of Southern California, and major in Computer
 
 
 ## 📈 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=iven-yao&theme=bear&include_all_commits=true&count_private=true&card_width=500&show_icons=true&text_bold=false)
+![](https://github-readme-stats.vercel.app/api?username=iven-yao&theme=bear&include_all_commits=true&count_private=true&&hide=issues&show_icons=true&text_bold=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iven-yao&theme=bear&count_private=true&layout=compact&langs_count=8&card_width=400)
 <!---
 iven-yao/iven-yao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
