@@ -1,6 +1,5 @@
-## 👋 Hi, I’m Chih-Ken, you can also call me Iven! 
+## 👋 Hi, I’m Iven
 Currently pursuing master's degree in Computer Science @ University of Southern California, will graduate in December 2023.  
-With 3+ years java develop experience and skill in frontend, backend.
 
 ## 📫 Get in touch
 <p>
