@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m Iven
-Currently pursuing master's degree in Computer Science @ University of Southern California, will graduate in December 2023.  
 
 ## 📫 Get in touch
 <p>
