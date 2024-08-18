@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m Iven
 
+Aspiring frontend engineer passionate about creating user-friendly web experiences. Continuously learning new stuff everyday. Excited to collaborate and grow in the world of web development!
+
 ## 📫 Get in touch
 <p>
   <a href=mailto:"ivenyao820109@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" width="40" height="40" alt="email"/></a>
